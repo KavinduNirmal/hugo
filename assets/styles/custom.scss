@@ -1,18 +1,26 @@
 // Add your own CSS here!
 
 :root {
-  --light: hsl(0deg 0% 100%);
-  --dark: hsl(220deg 42.86% 10.98%);
-  --secondary: hsl(258.05deg 53.85% 51.57%);
-  --tertiary: hsl(258.78deg 63.29% 59.41%);
-  --visited: hsl(217.78deg 15.08% 64.9%);
-  --primary: hsl(155deg 96.77% 24.31%);
-  --gray: hsl(215.63deg 18.39% 34.12%);
-  --lightgray: hsl(216deg 23.81% 95.88%);
-  --outlinegray: hsl(0deg 0% 20%);
+  // --light: #faf8f8;
+  --light: hsl(28, 32%, 95%);
+  // --dark: #141021;
+  --dark: hsl(28, 32%, 18%);
+  // --secondary: #284b63;
+  --secondary: hsl(116, 71%, 33%);
+  // --tertiary: #84a59d;
+  --tertiary: hsl(115, 34%, 60%);
+  // --visited: #afbfc9;
+  --visited: #7CC077;
+  // --primary: #f28482;
+  --primary: hsl(4, 62%, 55%);
+  // --gray: #4e4e4e;
+  --gray:  hsl(28, 32%, 18%);
+  // --lightgray: #f0f0f0;
+  --lightgray: hsl(28, 32%, 90%);
+  // --outlinegray: #dadada;
+  --outlinegray: hsl(0, 0%, 39%);
   --million-progress-bar-color: var(--secondary);
-  --highlighted: hsl(0, 100%, 94%);
-  --code-bornder: hsl(0deg 0% 86.67%);
+  --highlighted: #f5dfaf88;
 }
 
 [saved-theme="dark"] {
