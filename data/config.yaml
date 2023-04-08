@@ -1,0 +1,34 @@
+name: Kavindu Nirmal
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: false
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: false
+enableMermaid: true
+GitHubLink: https://github.com/KavinduNirmal/quartz/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description: Digital guarden of Kavindu Nirmal. This site contains my obisidian notes as an attempt at following zettelkasten method.
+page_title: "Kavindu Nirmal"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/Delpachithra
+  - link_name: GitHub
+    link: https://github.com/KavinduNirmal
+favicon:
+  - { rel: "shortcut icon", href: "favicon-16x16.png", type: "image/png" }
+  - { rel: "apple-touch-icon", href: "apple-touch-icon.png", type: "image/png" }
+#favicon: |
+#  <link rel="apple-touch-icon" sizes="180x180" href="../static/apple-touch-icon.png">
+#  <link rel="icon" type="image/png" sizes="32x32" href="../static/favicon-32x32.png">
+#  <link rel="icon" type="image/png" sizes="16x16" href="../static/favicon-16x16.png">
+#  <link rel="manifest" href="../static/site.webmanifest"> 

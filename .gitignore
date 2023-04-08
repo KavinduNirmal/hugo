@@ -1,0 +1,11 @@
+.DS_Store
+public
+resources
+.idea
+.vscode
+content/.obsidian
+content/private
+assets/indices/linkIndex.json
+assets/indices/contentIndex.json
+linkmap
+/.hugo_build.lock
